@@ -3,7 +3,6 @@
 		"enable": true,
 		"ores": {
 			"cobblestone": 60,
-			"stone:1": 50,
 			"coal_ore": 24,
 			"iron_ore": 13,
 			"gold_ore": 10,
